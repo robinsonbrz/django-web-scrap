@@ -1,14 +1,18 @@
 {% extends 'movierank/base.html' %}
 
 {% block content %}
+
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container text-center">
+    <h1 class="display-4">Rank de Filmes IMDb </h1>
+    <p class="lead">Filmes mais populares em pesquisa dos usuários IMDb atualizada em {{format_date}}</p>
+  </div>
+</div>
+
+
 <div class="container">
 
-  <h1 class='text-center'>Rank de Filmes IMDb  </h1>
-  <p class='text-center'> Por popularidade em {{format_date}}</p>
- 
-  
-  
-  
  <!---->
  <table class="table table-striped  align-middle mb-0 bg-white">
   <thead class="thead-dark">
