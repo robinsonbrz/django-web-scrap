@@ -17,7 +17,7 @@
             <img  src="https://avatars.githubusercontent.com/u/18150643?s=96&amp;v=4" alt="@robinsonbrz" width="30" height="30">
         </td>
         <td>
-            <a href="enedino.com.br/contato">
+            <a href="https://www.enedino.com.br/contato">
             <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/gmail.png" width="30" height="30" ></a>
         </td>
       </tr>
@@ -144,7 +144,7 @@
                 <img  src="https://avatars.githubusercontent.com/u/18150643?s=96&amp;v=4" alt="@robinsonbrz" width="30" height="30">
             </td>
             <td>
-                <a href="enedino.com.br/contato">
+                <a href="https://www.enedino.com.br/contato">
                 <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/gmail.png" width="120" height="120" ></a>
             </td>
         </tr>
