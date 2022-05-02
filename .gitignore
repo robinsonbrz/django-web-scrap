@@ -136,3 +136,4 @@ gunicorn-error-log
 static/
 
 # */settings.py
+password.txt
