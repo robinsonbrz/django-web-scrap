@@ -21,4 +21,4 @@ def home(request):
         if image:
             movies.append({"number": number, "title": image['alt'], "image": image['src']})
             number += 1
-    return render(request, "movierank/pages/home.html", {'movies': movies[:3], 'format_date': formatDate})
+    return render(request, "movierank/pages/home.html", {'movies': movies, 'format_date': formatDate})
