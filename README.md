@@ -29,7 +29,7 @@
         <a href="https://www.linkedin.com/in/robinsonbrz/">
             <img src="Movie List.jpg" width="600" height="auto">
             <h3 align="left">
-                🚧 Projeto 🚀 Completo 🚧
+                🚧 Projeto 🚀 concluído 🚧
             </h3>
             <br>
             <h3 align="left"> Features </h3>
