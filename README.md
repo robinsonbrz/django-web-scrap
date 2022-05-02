@@ -31,7 +31,6 @@
             <h3 align="left">
                 🚧 Projeto 🚀 concluído 🚧
             </h3>
-            <br>
             <h3 align="left"> Features </h3>
             <div align="left">
                 - [x] Web Scrap com Beautifull Soup<br>
