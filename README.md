@@ -11,7 +11,7 @@
                 </tr>
                 <td>
                     <a href="https://www.linkedin.com/in/robinsonbrz/">
-                        Adaptação e deploy por Robinson Enedino
+                        Implementtado por <b>Robinson Enedino</b>
                 </td>
                 <td>
                     <a href="https://www.linkedin.com/in/robinsonbrz/">
